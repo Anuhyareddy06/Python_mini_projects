@@ -36,7 +36,7 @@ Grade-Calculator/
 
 ## ▶️ How to Run the Project
 
-1. Clone the repository:git clone https://github.com/Anuhyareddy06/grade-calculator.git
+1. Clone the repository:git clone [https://github.com/Anuhyareddy06/grade-calculator.git](https://github.com/Anuhyareddy06/Python_mini_projects/blob/main/Grade_calculator%20(2).ipynb)
 
 2. Open the project folder
 
