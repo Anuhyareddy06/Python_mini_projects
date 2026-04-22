@@ -88,7 +88,7 @@ Grade: A
 
 ## 👩‍💻 Author
 
-Anuhya
+Anuhya Reddy
 
 ---
 
